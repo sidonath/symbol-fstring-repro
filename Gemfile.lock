@@ -166,6 +166,7 @@ GEM
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
     sqlite3 (1.4.2)
+    symbol-fstring (1.0.0)
     thor (1.1.0)
     tilt (2.0.10)
     tzinfo (2.0.4)
@@ -202,6 +203,7 @@ DEPENDENCIES
   selenium-webdriver
   spring
   sqlite3 (~> 1.4)
+  symbol-fstring (= 1.0.0)
   tzinfo-data
   web-console (>= 4.1.0)
   webdrivers
